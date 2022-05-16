@@ -25,7 +25,7 @@ Any specific problem you have been working on for more than an hour with no prog
 Once you have identified a specific problem you need to solve:
   1. Submit an issue using the bug template to this repository, answering all questions in the template. It is especially important to include a clear description of what is happening when you run your code, including any error messages you receive.
   2. Fork this repository
-  3. Produce an MRE in a directory labelled <YYYYMMDD>-<group name>-<short description>. 
+  3. Produce an MRE in a directory labelled `<YYYYMMDD>-<group name>-<short description>`. 
   4. Include the smallest amount of data that reproduces a problem (e.g. if you have 500 files, but the problem occurs with 2 files, just include 2 files). If you can't put your data on GitHub because it's too large or sensitive, place it somewhere accessible like OneDrive.
   5. Add and commit your files, and then create a pull request using the template. Pay close attention to the MRE checklist in the PR template.
   6. Send an email to the instructor with a link to your pull request, in case the automated emails don't go through.
