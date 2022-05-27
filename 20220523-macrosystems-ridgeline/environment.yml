@@ -1,4 +1,4 @@
-name: earth-analytics-python
+name: ea-macro
 channels:
   - conda-forge
   - defaults
