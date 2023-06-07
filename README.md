@@ -1,5 +1,5 @@
 # Earth Analytics Bug Queue
-Submit minimum reproducible examples of your bugs/problems with Earth Analytics Foundations Certificate final projects here!
+Submit minimum reproducible examples of your bugs/problems with Earth Data Analytics here!
 
 ## Purpose
 As we transition to work on projects, we want to make sure that any additional curriculum is relevant and useful to the class. This process will 
@@ -11,7 +11,7 @@ My bet: Over half of submitters will solve their own problem while creating thei
 
 ## How it works
 ### Who is this for?
-Earth Analytics Foundations Certificate students at CU Boulder who are working on final projects.
+Anyone with Earth Data Science related problems! If we have too many bugs, we may restrict to partners of Earthlab and ESIIL at the University of Colorado Boulder.
 
 ### When to submit a report
 Is your code crashing, too slow, or not doing what you expected? Submit a report here and we will make a short curriculum module demonstrating what we think is best practice. Some examples of the scope of possible bugs are:
